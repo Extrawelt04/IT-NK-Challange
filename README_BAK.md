@@ -1,7 +1,7 @@
 # IT-NK-Challange
 
 This is the challange project for our IT-NK's.  
-The task will be to write an en-/decrypt cli (Command Line Interface).
+The task will be to write a en-/decrypt cli (Command Line Interface).
 
 ## The journey:
 
@@ -9,7 +9,7 @@ The task will be to write an en-/decrypt cli (Command Line Interface).
 Use this [Java AES cipher](http://blog.axxg.de/java-aes-verschluesselung-mit-beispiel/)  to implement a simple encrypt / decrypt cli.  
 The usage should be this (on the prompt): java -jar "app-name" "method" "String-to-process"  
 
-- "app-name" is the name of the developed application
+- "app-name" is the name of the application
 - "method" can be:
   - "encrypt" for encrypting the given string
   - "decrypt" for decrypting the given string
@@ -39,7 +39,3 @@ You will have lot of redundant code. Use this to avoid it:
 
 ### Step 7:
 not yet defined... :)
-
-Perhaps:  
-- Read a file -> encrypt the content -> write ecrypted content to file
-- ...
