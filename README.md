@@ -42,5 +42,5 @@ not yet defined... :)
 
 Perhaps:  
 - Read a file -> encrypt the content -> write ecrypted content to file
-- Refactor to Sprin-Boot-App and provide an UI for encrypting and decrypting text and / or files
+- Refactor to Spring-Boot-App and provide an UI for encrypting and decrypting text and / or files
 - ...
