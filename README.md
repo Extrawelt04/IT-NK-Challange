@@ -13,7 +13,7 @@ The usage should be this (on the prompt): java -jar "app-name" "method" "String-
 - "method" can be:
   - "encrypt" for encrypting the given string
   - "decrypt" for decrypting the given string
-- "String-to-process" is the String which will be either encrypted or decrypted
+- "String-to-process" is the string which will be either encrypted or decrypted
 
 ### Step 2:
 If not done already: Make it bulletproof.
@@ -42,4 +42,5 @@ not yet defined... :)
 
 Perhaps:  
 - Read a file -> encrypt the content -> write ecrypted content to file
+- Refactor to Sprin-Boot-App and provide an UI for encrypting and decrypting text and / or files
 - ...
