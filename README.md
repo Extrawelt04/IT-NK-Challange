@@ -44,3 +44,12 @@ Perhaps:
 - Read a file -> encrypt the content -> write ecrypted content to file
 - Refactor to Spring-Boot-App and provide an UI for encrypting and decrypting text and / or files
 - ...
+
+## Additional Information
+
+Ensure that you have tested your code. Means: write JUnit tests.
+Al least at the end of:
+
+- Step 2
+- Step 4
+- Step 6
